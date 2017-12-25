@@ -2,18 +2,18 @@
 
 @font-face {
 	font-family: 'Proxima Nova';
-	src: url(../fonts/ProximaNova-Regular.eot);
-	src: url(../fonts/ProximaNova-Regular.ttf),
-		url(../fonts/ProximaNova-Regular.woff);
+	src: url(../fonts/proximanova-regular.eot);
+	src: url(../fonts/proximanova-regular.ttf),
+		url(../fonts/proximanova-regular.woff);
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Futura PT Heavy';
-	src: url(../fonts/FuturaPT-Heavy.eot);
-	src: url(../fonts/FuturaPT-Heavy.ttf),
-		url(../fonts/FuturaPT-Heavy.woff);
+	src: url(../fonts/futurapt-heavy.eot);
+	src: url(../fonts/futurapt-heavy.ttf),
+		url(../fonts/futurapt-heavy.woff);
 	font-weight: 400;
 	font-style: normal;
 }
